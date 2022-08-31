@@ -15,4 +15,5 @@ for (let y = 0; y < size; y++) {
 
 console.log("Hello");
 console.log("Hi");
+console.log("H");
 console.log(board);
