@@ -13,4 +13,6 @@ for (let y = 0; y < size; y++) {
   board += "\n";
 }
 
+console.log("Hello");
+console.log("Hi");
 console.log(board);
